@@ -1,0 +1,8 @@
+{
+  "Weather": [
+    {
+      "City": ["Delhi", "Kolkata", "Chandigarh", "Indore", "Mumbai", "London", "Toulouse"],
+      "Variance": 2
+    }
+  ]
+}
